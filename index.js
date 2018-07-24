@@ -9,3 +9,5 @@ function updateObjectWithKeyAndValue(object, key, value){
   
   return object + newObj
 }
+
+console.log(updateObjectWithKeyAndValue('recipe', 'grilled chicken', 'chicken'))
