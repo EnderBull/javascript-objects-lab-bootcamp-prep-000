@@ -7,4 +7,4 @@ function updateObjectWithKeyAndValue(object, key, value){
 }
 
 updateObjectWithKeyAndValue(recipe, 'fried_chicken', 'chicken')
-console.log(recipe.fried_chicken)
+console.log(recipe)
